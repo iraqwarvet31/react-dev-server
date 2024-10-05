@@ -1,3 +1,6 @@
 import React from 'react';
 
-export const HelloWorld = () => <h1>Hello World!!</h1>;
+export const HelloWorld = () => {
+  console.log('test');
+  return <h1>Hello World!!</h1>;
+};
