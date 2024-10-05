@@ -31,5 +31,5 @@ module.exports = {
     open: true, // open new tab
     hot: true, // Enable webpack's Hot Module Replacement
   },
-  mode: 'production',
+  mode: 'development',
 };
